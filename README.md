@@ -48,7 +48,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishivardhanreddy&theme=tokyonight" />
 </p>
-![Nishivardhan's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nishivardhanreddy&theme=github-compact)
+
 
 ---
 
