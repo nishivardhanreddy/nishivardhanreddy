@@ -33,13 +33,14 @@ Live: [trackmywarranty.in](https://trackmywarranty.in)
 ### 📊 [Player Performance Dashboard](https://github.com/nishivardhanreddy/player-performance-dashboard)
 Cricket analytics dashboard with EDA, Plotly & Matplotlib  
 Tech: `Python`, `Pandas`, `Plotly`, `Matplotlib`, `EDA`
+Live: [Player Performance Dashboard](https://player-performance-dashboard-cpb3b4htgwbmc2cr.southindia-01.azurewebsites.net/)
 
 ---
 
 ### 🩺 [Healthcare Diagnosis Assistant](https://github.com/nishivardhanreddy/healthcare-diagnosis-assistant)
 ML-powered disease prediction based on symptom inputs  
 Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`, `CI/CD`
-
+Live: [Healthcare Diagnosis Assistant](https://healthdiagnosis.azurewebsites.net/)
 ---
 
 ## 🧰 Tech Toolbox
