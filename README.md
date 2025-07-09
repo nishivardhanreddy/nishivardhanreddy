@@ -13,10 +13,11 @@
 
 ## 🧠 About Me
 
-- 🛠️ Building apps that solve real-world problems with React Native, Supabase, and AI tools
-- 📱 Founder of [TrackMyWarranty](https://trackmywarranty.in) — a productivity tool for home inventory & warranties
-- ⚡ Vibe coder: I prototype fast using AI-native workflows (ChatGPT, Copilot, prompt-driven dev)
-- 🎯 Passionate about analytics, automation, and shipping MVPs fast
+- 🛠️ Full-stack developer building production-grade apps using `React Native`, `Supabase`, and `PostgreSQL`
+- 🤖 Machine Learning & NLP enthusiast — solving real-world problems with models and data
+- 📊 Skilled in Exploratory Data Analysis (EDA), data cleaning, and pattern discovery
+- ⚡ "Vibe coder" — I rapidly prototype ideas using AI-native workflows (ChatGPT, GitHub Copilot)
+- 🏗️ Founder of [TrackMyWarranty](https://trackmywarranty.in)
 
 ---
 
@@ -27,32 +28,45 @@ A cross-platform app to manage home inventory, warranties, and service logs
 Tech: `React Native`, `Supabase`, `PostgreSQL`, `CI/CD`, `AI Tools`  
 Live: [trackmywarranty.in](https://trackmywarranty.in)
 
-<img src="https://your-screenshot-or-gif-link.com" width="600" alt="TrackMyWarranty Demo" />
-
 ---
 
 ### 📊 [Player Performance Dashboard](https://github.com/nishivardhanreddy/player-performance-dashboard)
-Cricket analytics dashboard using EDA, Matplotlib, and Plotly  
+Cricket analytics dashboard with EDA, Plotly & Matplotlib  
 Tech: `Python`, `Pandas`, `Plotly`, `Matplotlib`, `EDA`
 
 ---
 
 ### 🩺 [Healthcare Diagnosis Assistant](https://github.com/nishivardhanreddy/healthcare-diagnosis-assistant)
-ML-powered symptom-to-diagnosis predictor  
-Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`
+ML-powered disease prediction based on symptom inputs  
+Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`, `CI/CD`
 
 ---
 
 ## 🧰 Tech Toolbox
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML & Data Science**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-45B8AC?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-Data_Exploration-orange?style=flat-square)
+
+**NLP Tools**  
+![NLP](https://img.shields.io/badge/NLP-Text_Classification-blueviolet?style=flat-square)
+![TextBlob](https://img.shields.io/badge/TextBlob-black?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+
+**Backend & DevOps**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automated-blue?style=flat-square)
 
 ---
 
@@ -71,5 +85,5 @@ Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`
 ## 📬 Contact Me
 
 - 📧 [nishivardhanreddy99@gmail.com](mailto:nishivardhanreddy99@gmail.com)
-- 🌐 [nishivardhan.vercel.app](https://nishivardhan.vercel.app)
+- 🌐 [Portfolio](https://nishivardhan.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/nishivardhan)
