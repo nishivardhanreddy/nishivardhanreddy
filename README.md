@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Vakiti Nishivardhan Reddy</h1>
+<h1 align="center">Hey 👋 I'm Nishivardhan Reddy</h1>
 <p align="center">
   🚀 Full-Stack & AI Developer | 🎓 B.Tech CSE (Data Science & ML)
 </p>
