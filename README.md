@@ -32,22 +32,22 @@ Live: [trackmywarranty.in](https://trackmywarranty.in)
 
 ### 📊 [Player Performance Dashboard](https://github.com/nishivardhanreddy/player-performance-dashboard)
 Cricket analytics dashboard with EDA, Plotly & Matplotlib  
-Tech: `Python`, `Pandas`, `Plotly`, `Matplotlib`, `EDA`
+Tech: `Python`, `Pandas`, `Plotly`, `Matplotlib`, `EDA`<br>
 Live: [Player Performance Dashboard](https://player-performance-dashboard-cpb3b4htgwbmc2cr.southindia-01.azurewebsites.net/)
 
 ---
 
 ### 🩺 [Healthcare Diagnosis Assistant](https://github.com/nishivardhanreddy/healthcare-diagnosis-assistant)
 ML-powered disease prediction based on symptom inputs  
-Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`, `CI/CD`
+Tech: `Python`, `Naive Bayes`, `Streamlit`, `Docker`, `Azure`, `CI/CD`<br>
 Live: [Healthcare Diagnosis Assistant](https://healthdiagnosis.azurewebsites.net/)
 
 ---
 
 ### Crypto-Price-Prediction
 About
-This project is a Streamlit-based dashboard that predicts the next day's cryptocurrency prices . It fetches live market data from the Binance API, visualizes price trends and technical indicators, and provides a dashboard of top gainers and losers. The app is designed for both casual traders and data enthusiasts, offering interactive charts and market risk analysis.
-Tech: `Python`, `Sciket-Learn`, `Streamlit`, `Docker`, `Azure`, `CI/CD`
+This project is a Streamlit-based dashboard that predicts the next day's cryptocurrency prices . It fetches live market data from the Binance API, visualizes price trends and technical indicators, and provides a dashboard of top gainers and losers. The app is designed for both casual traders and data enthusiasts, offering interactive charts and market risk analysis.<br>
+Tech: `Python`, `Sciket-Learn`, `Streamlit`, `Docker`, `Azure`, `CI/CD`<br>
 Live: [Crypto Price Prediction](https://cryptopredictapp.azurewebsites.net/)
 
 ---
