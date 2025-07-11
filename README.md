@@ -47,8 +47,11 @@ Live: [Healthcare Diagnosis Assistant](https://healthdiagnosis.azurewebsites.net
 ### Crypto-Price-Prediction
 About
 This project is a Streamlit-based dashboard that predicts the next day's cryptocurrency prices . It fetches live market data from the Binance API, visualizes price trends and technical indicators, and provides a dashboard of top gainers and losers. The app is designed for both casual traders and data enthusiasts, offering interactive charts and market risk analysis.
-Tech:'Python','Streamlit','Scikit-learn','Binance API','Pandas','Plotly'
+Tech: `Python`, `Sciket-Learn`, `Streamlit`, `Docker`, `Azure`, `CI/CD`
 Live: [Crypto Price Prediction](https://cryptopredictapp.azurewebsites.net/)
+
+---
+
 ## 🧰 Tech Toolbox
 
 **Languages & Frameworks**  
