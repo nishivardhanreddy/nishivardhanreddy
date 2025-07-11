@@ -17,7 +17,7 @@
 - 🤖 Machine Learning & NLP enthusiast — solving real-world problems with models and data
 - 📊 Skilled in Exploratory Data Analysis (EDA), data cleaning, and pattern discovery
 - ⚡ "Vibe coder" — I rapidly prototype ideas using AI-native workflows (ChatGPT, GitHub Copilot)
-- 🏗️ Founder of [TrackMyWarranty](https://trackmywarranty.in)
+- 🏗️ Built [TrackMyWarranty](https://trackmywarranty.in) – Simplifying Warranty Management
 
 ---
 
